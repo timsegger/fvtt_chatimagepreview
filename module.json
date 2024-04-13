@@ -17,7 +17,7 @@
         "type": "module",
         "compatibility": {
           "minimum": "1.0.0.0",
-          "verified": "1.12.6.0"
+          "verified": "1.12.13.0"
         }
       }
     ]

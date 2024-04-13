@@ -9,7 +9,11 @@ This module embeds images from chat messages directly into the chat log. When an
 
 ## Installation
 
-TODO
+To install the module, paste the following manifest URL into the Install Module dialog in FoundryVTT:
+
+```url
+https://github.com/timsegger/fvtt_chatimagepreview/releases/latest/download/module.json
+```
 
 ## Usage
 
