@@ -27,5 +27,10 @@
       "name": "Thyzerle",
       "discord": "thyzerle"
     }
-  ]
+  ],
+  "url": "https://github.com/timsegger/fvtt_chatimagepreview",
+  "manifest": "https://github.com/timsegger/fvtt_chatimagepreview/releases/latest/download/module.json",
+  "download": "https://github.com/timsegger/fvtt_chatimagepreview/releases/latest/download/chatimagepreview.zip",
+  "readme": "https://github.com/timsegger/fvtt_chatimagepreview/blob/main/README.md",
+  "changelog": "https://github.com/timsegger/fvtt_chatimagepreview/blob/main/CHANGELOG.md"
 }
