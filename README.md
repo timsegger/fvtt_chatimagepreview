@@ -6,8 +6,6 @@ This module embeds images from chat messages directly into the chat log. When an
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -15,4 +13,5 @@ TODO
 
 ## Usage
 
-TODO
+The module will automatically embed images from chat messages into the chat log. When an embedded image is clicked, it will open in an image viewer.
+This will not work retroactively, only for new messages. After uninstalling the module, the images will still be embedded in the chat log but will not be clickable anymore.

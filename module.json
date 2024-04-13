@@ -1,0 +1,31 @@
+{
+  "id": "chatimagepreview",
+  "title": "Chat Image Preview",
+  "description": "This module embeds images from chat messages directly into the chat log. When an embedded image is clicked, it will open in an image viewer.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "src/main.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.0.0.0",
+          "verified": "1.12.6.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Thyzerle",
+      "discord": "thyzerle"
+    }
+  ]
+}
